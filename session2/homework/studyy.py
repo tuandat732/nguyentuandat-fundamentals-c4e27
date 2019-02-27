@@ -21,7 +21,8 @@ print(c is a)
 
 
 #3
-# điều kiện lồng nhau: những điều kiện con nằm trong điều kiện lớn
+# điều kiện lồng nhau: là khối lệnh gồm các câu lệnh if,else,elif và 
+# trong các câu lệnh điều kiện đó còn các câu lệnh khác
 # ví dụ
 n= int(input("nhap n: "))
 if(n>2):
