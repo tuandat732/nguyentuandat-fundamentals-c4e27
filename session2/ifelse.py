@@ -5,4 +5,4 @@ if(m<10):
 elif(m<16):
     print("teen")
 else:
-    print('lon r m')
+    print('adult')
