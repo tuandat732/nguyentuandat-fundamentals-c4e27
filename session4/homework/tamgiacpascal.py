@@ -14,7 +14,7 @@
 
 #cach 2
 n=int(input("nhap n: "))
-a=[[] for _ in range(n)]
+a=[[] for k in range(n)]
 for i in range(n):
     for j in range(i+1):
         if(j==0 or j==i):
