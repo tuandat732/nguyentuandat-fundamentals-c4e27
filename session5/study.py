@@ -68,7 +68,8 @@ for i in range(2,n):
         print(i,end=' ')
         for j in range(i,n,i):
             b[j]=1
-            
+        
+        
 
     
         
