@@ -38,6 +38,7 @@ def generate_quiz():
                 n,
                 z # 0 : meaning, 1: color
             ]
+
 def mouse_press(x, y, text, color, quiz_type):
     for i in range(4):
         text=text.lower()
